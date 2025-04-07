@@ -1,4 +1,4 @@
-# Grace-Ayuna
+# Grace-Ayuma
 
 SE-DAY5-Technical-Writing
 How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
